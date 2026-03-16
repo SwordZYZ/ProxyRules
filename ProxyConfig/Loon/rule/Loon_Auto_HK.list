@@ -23,3 +23,9 @@ DOMAIN-SUFFIX,mangafuna.xyz
 
 # NAME: Kemono Party
 DOMAIN-SUFFIX,kemono
+
+# NAME: Personal Website
+DOMAIN-SUFFIX,nas.siriscloudserver.top
+DOMAIN-SUFFIX,proxy.siriscloudserver.top
+DOMAIN-SUFFIX,lucky.siriscloudserver.top
+DOMAIN-SUFFIX,qbit.siriscloudserver.top
