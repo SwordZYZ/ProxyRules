@@ -48,6 +48,7 @@ HOST-SUFFIX,nas.siriscloudserver.top,HK_Auto
 HOST-SUFFIX,proxy.siriscloudserver.top,HK_Auto
 HOST-SUFFIX,lucky.siriscloudserver.top,HK_Auto
 HOST-SUFFIX,qbit.siriscloudserver.top,HK_Auto
+HOST-SUFFIX,rclone2.siriscloudserver.top,HK_Auto
 
 # NAME: Apple Sideload
 HOST-SUFFIX,gsa.apple.com,iCloud
