@@ -9,9 +9,9 @@ HOST-SUFFIX,dlsound.jp,JP_Auto
 HOST-SUFFIX,shinobi.jp,JP_Auto
 
 # NAME: JAVDB
-HOST-SUFFIX,javdb.com,HK_Auto
-HOST-SUFFIX,c0.jdbstatic.com,HK_Auto
-HOST-SUFFIX,h.yunpai8.com,HK_Auto
+HOST-SUFFIX,javdb.com,TW_Auto
+HOST-SUFFIX,c0.jdbstatic.com,TW_Auto
+HOST-SUFFIX,h.yunpai8.com,TW_Auto
 
 # NAME: Manga
 HOST-SUFFIX,mangafuna.xyz,HK_Auto

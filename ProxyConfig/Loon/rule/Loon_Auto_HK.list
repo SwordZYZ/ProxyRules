@@ -13,11 +13,6 @@ DOMAIN-SUFFIX,saucenao.com
 DOMAIN-SUFFIX,iqdb.org
 DOMAIN-SUFFIX,tineye.com
 
-# NAME: JAVDB
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,c0.jdbstatic.com
-DOMAIN-SUFFIX,h.yunpai8.com
-
 # NAME: Manga
 DOMAIN-SUFFIX,mangafuna.xyz
 
