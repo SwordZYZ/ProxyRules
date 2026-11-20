@@ -49,6 +49,8 @@ https://raw.githubusercontent.com/SwordZYZ/ProxyRules/main/ProxyConfig/Quantumul
 
 ### 同步
 
+清单抬头的 `UPDATED` 记录该文件最近一次内容变更的北京时间。内容相同时，脚本保留原来的时间戳和文件。
+
 GitHub Actions 每周一 09:17（北京时间）同步三个规则集，也可在 GitHub 的 **Actions → Sync Google IP rules** 手动运行。仅在规则内容变化时，工作流才会提交并推送更新。工作流使用 `GITHUB_TOKEN`，仓库的默认分支需允许该令牌推送。
 
 公开仓库连续 60 天没有活动时，GitHub 会停用定时工作流，可在 Actions 页面重新启用。[GitHub 定时工作流说明](https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule)
