@@ -20,13 +20,15 @@ jobs:
         with:
           ref: ${{ github.ref }}
 
-      - name: Generate GoogleIP.list
+      - name: Generate Google IP rule lists
         run: python3 ProxyConfig/Clash/rule/update_google_ip.py
 
       - name: Commit changed rules
         shell: bash
         run: |
-          git add -- ProxyConfig/Clash/rule/GoogleIP.list
+          git add -- ProxyConfig/Clash/rule/GoogleIP.list \
+            ProxyConfig/Loon/rule/Loon_GoogleIP.list \
+            ProxyConfig/QuantumultX/rule/QX_GoogleIP.list
           if git diff --cached --quiet; then
             exit 0
           fi
